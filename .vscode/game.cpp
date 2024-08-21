@@ -1,4 +1,4 @@
-//while 循环  2024/8/21
+//while 循环  2024/8/21 sencond
 
 #include <iostream>
 #include <ctime>
